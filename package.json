@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/dani898908/introduccion-npm-node/issues"
   },
-  "homepage": "https://github.com/dani898908/introduccion-npm-node#readme"
+  "homepage": "https://github.com/dani898908/introduccion-npm-node#readme",
+  "dependencies": {}
 }
