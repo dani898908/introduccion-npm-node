@@ -3,7 +3,7 @@ module.exports={
         console.log("hola npm");
     },
     holaPersonalizado: function (nombre) {
-        console.log("hola" `${nombre}`+"curso npm");
+        console.log(`hola ${nombre} desde npm`);
     },
     holaCursoNPM:function () {
         console.log("hola caracola")
